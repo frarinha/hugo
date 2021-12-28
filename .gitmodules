@@ -1,0 +1,4 @@
+[submodule "portfolio/public"]
+	path = portfolio/public
+	url = https://github.com/frarinha/frarinha.github.io.git
+	branch = main
