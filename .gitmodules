@@ -1,6 +1,6 @@
 [submodule "portfolio/public"]
 	path = portfolio/public
-	url = ssh://git@github.com:frarinha/frarinha.github.io.git
+	url = git@github.com:frarinha/frarinha.github.io.git
 	branch = main
 [submodule "public"]
 	url = ssh://git@github.com:frarinha/frarinha.github.io.git
